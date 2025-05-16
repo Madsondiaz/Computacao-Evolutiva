@@ -86,3 +86,7 @@ def run_genetic_algorithm():
 
 
 run_genetic_algorithm()
+
+
+#Quando melhora/piora o desempenho do algoritmo na mudança dos parâmetros indicados? 
+#R: O desempenho será melhor ou pior irá depender da modificação dos parâmetros. Se tiver aumento na população resultara em um aumento nas chances de encontrar uma solução mais viável. Se a população for grande a demora de processo do algoritmo sera maior e menor se a população for reduzida
